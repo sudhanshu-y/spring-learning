@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse xmlns="https://course-details/course"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://course-details/course course-details.xsd">
+	<CourseDetails>
+		<id>1</id>
+		<name>API</name>
+		<description>API creation and using SOAP</description>
+	</CourseDetails>
+</GetCourseDetailsResponse>

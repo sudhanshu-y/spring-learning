@@ -1,0 +1,17 @@
+https\course_details\course\GetCourseDetailsRequest.class
+https\course_details\course\GetAllCourseDetailsResponse.class
+com\soap\webservice\soapcoursemanagement\SoapCourseManagementApplication.class
+https\course_details\course\DeleteCourseDetailsResponse.class
+com\soap\webservice\soapcoursemanagement\soap\bean\Courses.class
+https\course_details\course\DeleteCourseDetailsRequest.class
+https\course_details\course\package-info.class
+https\course_details\course\ObjectFactory.class
+com\soap\webservice\soapcoursemanagement\soap\CourseDetailEndPoint.class
+https\course_details\course\GetAllCourseDetailsRequest.class
+https\course_details\course\Status.class
+com\soap\webservice\soapcoursemanagement\soap\WebSpringConfig.class
+com\soap\webservice\soapcoursemanagement\soap\exception\CourseNotFoundException.class
+com\soap\webservice\soapcoursemanagement\soap\service\CourseDetailsService$Status.class
+com\soap\webservice\soapcoursemanagement\soap\service\CourseDetailsService.class
+https\course_details\course\CourseDetails.class
+https\course_details\course\GetCourseDetailsResponse.class
