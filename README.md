@@ -83,3 +83,23 @@ Spring Boot: An opinionated approach built on top of Spring, promoting rapid app
 
 
 
+>**2024-02-19-soap-webservice**
+
+XSD: 
+XML Schema Definition (XSD) defines the structure and rules for valid XML documents.
+
+WSDL: 
+WSDL stands for Web Services Description Language. It is an XML-based language used to describe web services and their functionalities. WSDL provides a standardized way for defining the interface, operations, input, output, and other details of a web service.
+
+<wsdl:types>: This section defines the data types used in the web service operations. It typically uses XML Schema (XSD) to define complex data types.
+<wsdl:message>: Request & Response
+<wsdl:portType>: operations (functions) offered by the web service
+<wsdl:binding>: Maps operation to specific protocol and message format - SOAP over HTTP or Message Queue (MQ)
+<wsdl:service> Maps to Endpoint of web-service, URL
+
+
+JAXB: 
+Java Architecture for XML Binding (JAXB) is a Java technology that automatically generates Java classes from XSD schemas and vice versa.
+It bridges the gap between XML and Java, simplifying data exchange and processing.
+
+
