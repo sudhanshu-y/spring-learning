@@ -103,3 +103,13 @@ Java Architecture for XML Binding (JAXB) is a Java technology that automatically
 It bridges the gap between XML and Java, simplifying data exchange and processing.
 
 
+>**2024-02-28-RestAPI-Basics**
+
+Dependencies: Spring Web, JPA, H2, Spring Boot Dev tools
+
+DispatcherServlet is a central component in the Spring Framework's web MVC (Model-View-Controller) framework. 
+It acts as a front controller, receiving all HTTP requests and dispatching them to the appropriate handlers for processing. 
+
+@PathVariable provides a convenient way to access dynamic data from the request URL within Spring MVC controller methods, making it easier to build RESTful APIs or web applications that use path-based parameters.
+It allows to extract values from the URI and use them as method parameters in your controller methods. 
+
